@@ -1,0 +1,8 @@
+resource_group_name         = "rv_rg"
+resource_group_location     = "West Europe"
+virtual_network_name        = "vnetprod-rv1997"
+subnet_name                 = "subnet-rv1997"
+public_ip_name              = "publicip-rv1997"
+network_security_group_name = "nsgprod-rv1997"
+network_interface_name      = "nicprod-rv1997"
+linux_virtual_machine_name  = "linuxvm-rv1997"
